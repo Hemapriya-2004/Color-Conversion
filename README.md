@@ -93,7 +93,7 @@ cv2.destroyAllWindow
 ### i) BGR and RGB to HSV and GRAY
 ![output](https://github.com/Hemapriya-2004/Color-Conversion/blob/main/H%20o-p1.jpg?raw=true)
 ### ii) HSV to RGB and BGR
-![output]https://github.com/Hemapriya-2004/Color-Conversion/blob/main/h%20o-p2.jpg(?raw=true)
+![output](https://github.com/Hemapriya-2004/Color-Conversion/blob/main/h%20o-p2.jpg?raw=true)
 ### iii) RGB and BGR to YCrCb
 ![output](https://github.com/Hemapriya-2004/Color-Conversion/blob/main/h%20o-p3.jpg?raw=true)
 ### iv) Split and merge RGB Image
